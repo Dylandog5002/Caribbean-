@@ -136,3 +136,8 @@ footer p {
     margin: 2px;
     margin-right: 50px;
 }
+
+#homepage{
+     display: block;
+    width: 150%;
+	background-image:image(home_Beach.jpg);
