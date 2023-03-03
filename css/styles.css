@@ -55,7 +55,7 @@ header h2 {
 }
 
 .firstE {
-    color: #A68160;
+    color: #11181E;
 }
 
 .letterG {
@@ -63,7 +63,7 @@ header h2 {
 }
 
 .lastE {
-    color: #A68160;
+    color: #11181E;
 }
 
 .hNav {
@@ -74,11 +74,13 @@ header h2 {
 .hNav ul {
     display: block;
     padding-left: 150px;
+	color:#11181E;
 }
 
 .hNav ul li {
     display: inline-block;
     list-style: none;
+	color:#11181E;
 }
 
 .hNav a {
